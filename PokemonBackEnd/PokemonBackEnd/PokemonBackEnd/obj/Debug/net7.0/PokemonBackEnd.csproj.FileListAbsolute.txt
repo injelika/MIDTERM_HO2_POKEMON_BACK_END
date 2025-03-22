@@ -1,0 +1,108 @@
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\appsettings.json
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\PokemonBackEnd.exe
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\PokemonBackEnd.deps.json
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\PokemonBackEnd.runtimeconfig.json
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\PokemonBackEnd.dll
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\PokemonBackEnd.pdb
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.AssemblyInfo.cs
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets\msbuild.PokemonBackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets\msbuild.build.PokemonBackEnd.props
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PokemonBackEnd.props
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PokemonBackEnd.props
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\scopedcss\bundle\PokemonBackEnd.styles.css
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.csproj.CopyComplete
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.dll
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\refint\PokemonBackEnd.dll
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.pdb
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.genruntimeconfig.cache
+C:\Users\STUDENT\Documents\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\ref\PokemonBackEnd.dll
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\appsettings.json
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\PokemonBackEnd.staticwebassets.endpoints.json
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\PokemonBackEnd.exe
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\PokemonBackEnd.deps.json
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\PokemonBackEnd.runtimeconfig.json
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\PokemonBackEnd.dll
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\PokemonBackEnd.pdb
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.csproj.AssemblyReference.cache
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.AssemblyInfoInputs.cache
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.AssemblyInfo.cs
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\scopedcss\bundle\PokemonBackEnd.styles.css
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets\msbuild.PokemonBackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets\msbuild.PokemonBackEnd.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets\msbuild.build.PokemonBackEnd.props
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PokemonBackEnd.props
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PokemonBackEnd.props
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonB.476BCBB9.Up2Date
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.dll
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\refint\PokemonBackEnd.dll
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.pdb
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.genruntimeconfig.cache
+C:\Users\Angelica Santos\Downloads\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\ref\PokemonBackEnd.dll
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\appsettings.json
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\PokemonBackEnd.staticwebassets.endpoints.json
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\PokemonBackEnd.exe
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\PokemonBackEnd.deps.json
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\PokemonBackEnd.runtimeconfig.json
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\PokemonBackEnd.dll
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\PokemonBackEnd.pdb
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.csproj.AssemblyReference.cache
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.AssemblyInfoInputs.cache
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.AssemblyInfo.cs
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.sourcelink.json
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\scopedcss\bundle\PokemonBackEnd.styles.css
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets\msbuild.PokemonBackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets\msbuild.PokemonBackEnd.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets\msbuild.build.PokemonBackEnd.props
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PokemonBackEnd.props
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PokemonBackEnd.props
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonB.476BCBB9.Up2Date
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.dll
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\refint\PokemonBackEnd.dll
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.pdb
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\PokemonBackEnd.genruntimeconfig.cache
+C:\Users\Angelica Santos\Documents\GitHub\MIDTERM_HO2_POKEMON_BACK_END\PokemonBackEnd\PokemonBackEnd\PokemonBackEnd\obj\Debug\net7.0\ref\PokemonBackEnd.dll
